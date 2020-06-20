@@ -1,0 +1,8 @@
+pageObjects\ItemSelectionPage.class
+pageObjects\LoginPage.class
+pageObjects\CartSummaryPage.class
+pageObjects\ProfileDetailsPage.class
+pageObjects\ShippingConfirmationPage.class
+pageObjects\AddressConfirmationPage.class
+pageObjects\OrderHistoryPage.class
+pageObjects\PaymentConfirmationPage.class
